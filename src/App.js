@@ -10,7 +10,7 @@ return (
   <div className="App">
     <h1> Hi, I'm a React App</h1>
     <p>This is really working!</p>
-    <Person/>
+    <Person name="Keith" age="29" ></Person>
   </div>
 
 
